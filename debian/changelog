@@ -1,0 +1,9 @@
+rockchip-vdpau (0.20-2) unstable; urgency=low
+  * Better organization
+
+ -- Randy Li <randy.li@rock-chips.com>  Fri, 22 Jul 2016 10:34:24 +0800
+rockchip-vdpau (0.20-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Randy Li <randy.li@rock-chips.com>  Wed, 13 Jul 2016 05:54:24 +0000
