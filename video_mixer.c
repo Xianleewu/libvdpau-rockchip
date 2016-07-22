@@ -20,7 +20,7 @@
 #include <math.h>
 #include <sys/mman.h>
 #include <time.h>
-#include <libdrm/drm_fourcc.h>
+#include <drm_fourcc.h>
 #include <xf86drm.h>
 #include <xf86drmMode.h>
 

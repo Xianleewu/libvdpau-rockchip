@@ -1,5 +1,5 @@
+#include "videodev2.h"
 #include "vdpau_private.h"
-#include "linux/videodev2.h"
 
 #define kDPBMaxSize 16
 #define kMaxVideoFrames 4

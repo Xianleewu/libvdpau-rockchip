@@ -4,10 +4,8 @@
 #include <stdint.h>
 #include <linux/types.h>
 #include <linux/v4l2-controls.h>
-
 #include "v4l2.h"
 #include "h264_decoder.h"
-
 #include "h264d.h"
 
 #define DEV_NAME_RK3399		    "rockchip-vpu-vdec"
