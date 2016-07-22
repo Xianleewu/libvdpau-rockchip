@@ -6,10 +6,10 @@
 #include "common.h"
 #include "h264_stream.h"
 #include "h264d_cabac.h"
-#include "libvpu/h264_dec/h264decapi.h"
-#include "libvpu/h264_dec/h264hwd_asic.h"
-#include "libvpu/h264_dec/h264hwd_dpb.h"
-#include "libvpu/h264_dec/pv_avcdec_api.h"
+#include "h264decapi.h"
+#include "h264hwd_asic.h"
+#include "h264hwd_dpb.h"
+#include "pv_avcdec_api.h"
 
 #define PIC_IS_ST_TERM(dpb) \
 	(dpb.flags == V4L2_H264_DPB_ENTRY_FLAG_ACTIVE)
